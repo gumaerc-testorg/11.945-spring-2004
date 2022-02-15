@@ -1,11 +1,13 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Image Gallery
 uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 ---
 
 These images show the major design elements proposed by the studio, in general and in some detail. All images are courtesy of the studio, and used with permission.
-{{< image-gallery id="a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059_nanogallery2" baseUrl="https://open-learning-course-data-rc.s3.amazonaws.com/11-945-springfield-studio-spring-2004/" >}}
+{{< image-gallery id="a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059_nanogallery2" baseUrl="/courses/11-945-springfield-studio-spring-2004/" >}}
 {{< image-gallery-item href="dd32fff7bfbcb5c4c11b62df9fa2f91e_existing.jpg" data-ngdesc="The Existing Condition. Image courtesy of the studio, and used with permission." text="The Existing Condition." >}}
 {{< image-gallery-item href="0ccf1b6bf2c8ecb6e56ae6348b06332e_concept.jpg" data-ngdesc="The Concept Plan. Image courtesy of the studio, and used with permission." text="The Concept Plan." >}}
 {{< image-gallery-item href="6e0e54173f3c32be927a24d4ac4796c8_chestnut1.jpg" data-ngdesc="Chestnut Phase 1. Image courtesy of the studio, and used with permission." text="Chestnut Phase 1." >}}
