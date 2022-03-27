@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: chestnut1.jpg
 uid: 6e0e5417-3f3c-32be-927a-24d4ac4796c8

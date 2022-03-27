@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 19d6121f-501d-9847-05b0-65d67abae4df
 resourcetype: Document
 title: intro.pdf
 uid: eef64159-4450-044f-376a-de13ec69be07

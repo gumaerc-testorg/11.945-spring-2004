@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 19d6121f-501d-9847-05b0-65d67abae4df
 resourcetype: Document
 title: ch4Bz.pdf
 uid: 4ec47781-97c9-7037-8ac7-3b6c82df4de7

@@ -11,6 +11,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: Image Gallery
 parent_type: CourseSection
+parent_uid: a10c4fd4-fa99-edf0-dbf5-44d4c2aa5059
 resourcetype: Image
 title: thomas1.jpg
 uid: 6be77262-8ffe-36a0-e21e-f163b575c427
