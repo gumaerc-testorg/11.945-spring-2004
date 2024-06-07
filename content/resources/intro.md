@@ -3,6 +3,7 @@ content_type: resource
 description: Introduction to the final project report. Courtesy of Diana Bernal. Used
   with permission.
 file: /courses/11-945-springfield-studio-spring-2004/eef641594450044f376ade13ec69be07_intro.pdf
+file_size: 317170
 file_type: application/pdf
 learning_resource_types:
 - Projects
