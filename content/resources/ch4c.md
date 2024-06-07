@@ -3,6 +3,7 @@ content_type: resource
 description: Chapter 4c of the final project report. Courtesy of Diana Bernal. Used
   with permission.
 file: /courses/11-945-springfield-studio-spring-2004/c900025e6fb1bc44d55fe63c67a5d4fb_ch4C.pdf
+file_size: 1342629
 file_type: application/pdf
 learning_resource_types:
 - Projects

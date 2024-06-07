@@ -3,6 +3,7 @@ content_type: resource
 description: Chapter 2 of the final project report. Courtesy of Diana Bernal. Used
   with permission.
 file: /courses/11-945-springfield-studio-spring-2004/b3dabc382ebc252bc01db41f9925d716_ch2z.pdf
+file_size: 492572
 file_type: application/pdf
 learning_resource_types:
 - Projects

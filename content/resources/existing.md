@@ -2,6 +2,7 @@
 content_type: resource
 description: The Existing Condition. Image courtesy of the studio, and used with permission.
 file: /courses/11-945-springfield-studio-spring-2004/dd32fff7bfbcb5c4c11b62df9fa2f91e_existing.jpg
+file_size: 57280
 file_type: image/jpeg
 image_metadata:
   caption: The Existing Condition.
