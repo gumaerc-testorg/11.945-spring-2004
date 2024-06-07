@@ -2,6 +2,7 @@
 content_type: resource
 description: The Concept Plan. Image courtesy of the studio, and used with permission.
 file: /courses/11-945-springfield-studio-spring-2004/0ccf1b6bf2c8ecb6e56ae6348b06332e_concept.jpg
+file_size: 78485
 file_type: image/jpeg
 image_metadata:
   caption: The Concept Plan.

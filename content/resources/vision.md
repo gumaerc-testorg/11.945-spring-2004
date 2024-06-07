@@ -2,6 +2,7 @@
 content_type: resource
 description: Campus Vision. Image courtesy of the studio, and used with permission.
 file: /courses/11-945-springfield-studio-spring-2004/07b9a67e64109da1f395dc111f769d63_vision.jpg
+file_size: 66370
 file_type: image/jpeg
 image_metadata:
   caption: Campus Vision.
