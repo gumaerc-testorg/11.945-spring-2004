@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Thomas Phase 1. Image courtesy of the studio, and used with permission.
-file: /courses/11-945-springfield-studio-spring-2004/6be772628ffe36a0e21ef163b575c427_thomas1.jpg
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-spring-2004/6be772628ffe36a0e21ef163b575c427_thomas1.jpg
 file_size: 53396
 file_type: image/jpeg
 image_metadata:

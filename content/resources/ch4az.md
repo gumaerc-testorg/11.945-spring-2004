@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter 4a of the final project report. Courtesy of Diana Bernal. Used
   with permission.
-file: /courses/11-945-springfield-studio-spring-2004/a367c6e76f6addc2f17ad3c2b425ac5e_ch4Az.pdf
+file: /ol-ocw-studio-app/courses/11-945-springfield-studio-spring-2004/a367c6e76f6addc2f17ad3c2b425ac5e_ch4Az.pdf
 file_size: 354085
 file_type: application/pdf
 learning_resource_types:
