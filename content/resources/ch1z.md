@@ -2,7 +2,7 @@
 content_type: resource
 description: Chapter 1 of the final project report. Courtesy of Diana Bernal. Used
   with permission.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-spring-2004/1929236ed0aef5bcbfedc2b6f8602dc7_ch1z.pdf
+file: /courses/11-945-springfield-studio-spring-2004/1929236ed0aef5bcbfedc2b6f8602dc7_ch1z.pdf
 file_size: 180536
 file_type: application/pdf
 learning_resource_types:

@@ -11,7 +11,7 @@ description: 'The class project will consist of a three-stage process: inventory
   with the community and what it means to incorporate community knowledge into a planning
   process. Students will keep a journal of their experiences in the class and will
   respond to assigned reflective exercises in this book.'
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-spring-2004/10258308cdf26e9b55457daf463f2000_class_project.pdf
+file: /courses/11-945-springfield-studio-spring-2004/10258308cdf26e9b55457daf463f2000_class_project.pdf
 file_size: 24134
 file_type: application/pdf
 learning_resource_types:
