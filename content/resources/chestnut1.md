@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Chestnut Phase 1. Image courtesy of the studio, and used with permission.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-spring-2004/6e0e54173f3c32be927a24d4ac4796c8_chestnut1.jpg
+file: /courses/11-945-springfield-studio-spring-2004/6e0e54173f3c32be927a24d4ac4796c8_chestnut1.jpg
 file_size: 65728
 file_type: image/jpeg
 image_metadata:

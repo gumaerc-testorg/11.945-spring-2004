@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Gerena Phase 3. Image courtesy of the studio, and used with permission.
-file: /ol-ocw-studio-app/courses/11-945-springfield-studio-spring-2004/c8da34980178a468bce708712c194988_genera3.jpg
+file: /courses/11-945-springfield-studio-spring-2004/c8da34980178a468bce708712c194988_genera3.jpg
 file_size: 27065
 file_type: image/jpeg
 image_metadata:
